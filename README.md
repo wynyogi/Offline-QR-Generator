@@ -1,4 +1,6 @@
-# [Offline QR Code Generator](https://alqipne.github.io/Offline-QR-Generator/)
+# Offline QR Code Generator
+[TRY HERE]
+(https://wynyogi.github.io/Offline-QR-Generator/)
 
 **Author:** @alqipne
 
@@ -32,4 +34,4 @@ MIT License
 
 ## 📬 Contact
 
-Created by @alqipne  
+Created by @wynyogi  
