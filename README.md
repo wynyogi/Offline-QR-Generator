@@ -1,7 +1,7 @@
 # Offline QR Code Generator
 [TRY HERE](https://wynyogi.github.io/Offline-QR-Generator/)
 
-**Author:** @alqipne
+**Author:** @wynyogi
 
 ## 🌟 Overview
 
